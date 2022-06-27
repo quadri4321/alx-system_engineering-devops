@@ -1,1 +1,1 @@
-Task 0. Where am I?
+Commands for shell basics, permissions and I/O redirection
